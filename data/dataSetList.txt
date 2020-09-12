@@ -1,0 +1,9 @@
+BreastCancer
+Promoters
+Soybean
+Dermatology
+Vote
+Car
+GermanCredit
+Chess
+Tic-Tac-Toe
